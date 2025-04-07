@@ -2,7 +2,7 @@
 name: Daily-Scrum-Template
 about: Daily-Scrum-Template
 title: ''
-labels: Daily-Scrum
+labels: ''
 assignees: ''
 
 ---

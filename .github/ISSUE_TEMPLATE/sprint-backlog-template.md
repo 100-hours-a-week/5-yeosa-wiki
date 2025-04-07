@@ -2,7 +2,7 @@
 name: Sprint-Backlog-Template
 about: Sprint-Backlog-Template
 title: ''
-labels: Sprint-Backlog
+labels: ''
 assignees: ''
 
 ---
