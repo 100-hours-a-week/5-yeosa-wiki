@@ -1,3 +1,12 @@
+---
+name: Mentoring-Question-Template
+about: Mentoring-Question-Template
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 제목 양식: "[멘토링] 질문의 핵심을 간략히 표현"
 
 이슈 본문 양식:
