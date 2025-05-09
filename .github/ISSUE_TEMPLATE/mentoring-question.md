@@ -2,7 +2,7 @@
 name: Mentoring-Question-Template
 about: Mentoring-Question-Template
 title: ''
-labels: 'Mentoring Question'
+labels: Mentoring Question
 assignees: ''
 
 ---
