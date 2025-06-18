@@ -2,7 +2,7 @@
 name: Feedback-template
 about: 상호 피드백을 위한 템플릿입니다
 title: ''
-labels: ''
+labels: Feedback
 assignees: ''
 
 ---
