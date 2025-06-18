@@ -2,7 +2,7 @@
 name: Bug-Report-Template
 about: Bug report
 title: ''
-labels: 'Bug: Critical, BugFix'
+labels: 'Bug: Critical, Bug: Minor, BugFix, Feature, Question'
 assignees: ''
 
 ---
